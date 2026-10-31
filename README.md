@@ -6,6 +6,7 @@ a wireframe sphere; rotate a tesseract through the fourth dimension — and hear
 the geometry while you do it.
 
 **Run it:** https://kevinoue.com/geoscope/ — or just open `index.html`.
+**Source:** https://github.com/kevinoue/geoscope
 One self-contained file: no libraries, no build step, no network.
 
 ![GeoScope](https://kevinoue.com/geoscope/) <!-- screenshot lives on the site -->
